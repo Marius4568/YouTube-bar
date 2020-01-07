@@ -1,2 +1,2 @@
-# YouTube-bar
-The navigation bar of youtube (html + css)
+# YouTube-sidebar feature
+this is a new feature for the navbar: the sidebar.
