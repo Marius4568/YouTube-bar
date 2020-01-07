@@ -253,3 +253,20 @@ body {
     
     
     }
+
+    @media screen and (max-width: 400px) {
+        .left-side-elements {
+            justify-content: space-between;
+            width: 50px;
+        }
+
+        .logo {
+            width: 40px;
+        }
+
+        .ham-menu-icon {
+            margin-left: 0;
+            margin-right: 15px;
+        }
+
+    }
